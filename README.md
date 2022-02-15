@@ -14,9 +14,9 @@
 ### План работы по этапам
 #### Развертывание необходимых сервисов для сбора телеметрии
 1. Azure:
-   - Активация Azure Pass
-   - Запуск Azure IoT Hub
-   - Добавление IoT Edge устройства
+   1. Активация Azure Pass
+   2. [Запуск Azure IoT Hub](https://github.com/dmitriyteteruk/IoT-HOL-MTS-AwaraIT/blob/main/01.2-Setup-Azure-IoT-Hub.md)
+   3. Добавление IoT Edge устройства
 2. Azure Stack Hub:
    - Создание виртуальной машины (шлюза) Ubuntu 18.04
    - Установка Azure IoT Edge
