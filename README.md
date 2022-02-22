@@ -18,7 +18,7 @@
    2. [Запуск Azure IoT Hub](https://github.com/dmitriyteteruk/IoT-HOL-MTS-AwaraIT/blob/main/1.2-Setup-Azure-IoT-Hub.md)
    3. [Добавление IoT Edge устройства](https://github.com/dmitriyteteruk/IoT-HOL-MTS-AwaraIT/blob/main/1.3-AddIoT-Edge-Device-To-Azure-IoT-Hub.md)
 2. Azure Stack Hub:
-   1. Создание виртуальной машины (шлюза) Ubuntu 18.04
+   1. [Создание виртуальной машины (шлюза) Ubuntu 18.04](https://github.com/dmitriyteteruk/IoT-HOL-MTS-AwaraIT/blob/main/2.1-Setup-IoT-Edge-Gateway-VM-ASH.md)
    2. Установка Azure IoT Edge
    3. Подключение шлюза к Azure IoT Hub
    4. Добавление информации о реестре контейнеров на шлюз (только в рамках работы)
