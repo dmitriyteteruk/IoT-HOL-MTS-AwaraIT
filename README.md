@@ -20,8 +20,7 @@
 2. Azure Stack Hub:
    1. [Создание виртуальной машины (шлюза) Ubuntu 18.04](https://github.com/dmitriyteteruk/IoT-HOL-MTS-AwaraIT/blob/main/2.1-Setup-IoT-Edge-Gateway-VM-ASH.md)
    2. Установка Azure IoT Edge
-   3. Подключение шлюза к Azure IoT Hub
-   4. Добавление информации о реестре контейнеров на шлюз (только в рамках работы)
+   3. Подключение шлюза к Azure IoT Hub и загрузка приложения
 3. Azure IoT Hub:
    1. Удаленное развертывание контейнеров из частного реестра (приложения для работы с МТС IoT Hub и решением на базе Azure Stack Hub)
    2. Проверка работоспособности
