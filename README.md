@@ -15,8 +15,8 @@
 #### Развертывание необходимых сервисов для сбора телеметрии
 1. Azure:
    1. Активация Azure Pass
-   2. [Запуск Azure IoT Hub](https://github.com/dmitriyteteruk/IoT-HOL-MTS-AwaraIT/blob/main/01.2-Setup-Azure-IoT-Hub.md)
-   3. [Добавление IoT Edge устройства](https://github.com/dmitriyteteruk/IoT-HOL-MTS-AwaraIT/blob/main/01.3-AddIoT-Edge-Device-To-Azure-IoT-Hub.md)
+   2. [Запуск Azure IoT Hub](https://github.com/dmitriyteteruk/IoT-HOL-MTS-AwaraIT/blob/main/1.2-Setup-Azure-IoT-Hub.md)
+   3. [Добавление IoT Edge устройства](https://github.com/dmitriyteteruk/IoT-HOL-MTS-AwaraIT/blob/main/1.3-AddIoT-Edge-Device-To-Azure-IoT-Hub.md)
 2. Azure Stack Hub:
    1. Создание виртуальной машины (шлюза) Ubuntu 18.04
    2. Установка Azure IoT Edge
