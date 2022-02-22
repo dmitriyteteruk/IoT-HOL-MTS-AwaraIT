@@ -16,15 +16,15 @@
 1. Azure:
    1. Активация Azure Pass
    2. [Запуск Azure IoT Hub](https://github.com/dmitriyteteruk/IoT-HOL-MTS-AwaraIT/blob/main/01.2-Setup-Azure-IoT-Hub.md)
-   3. Добавление IoT Edge устройства
+   3. [Добавление IoT Edge устройства](https://github.com/dmitriyteteruk/IoT-HOL-MTS-AwaraIT/blob/main/01.3-AddIoT-Edge-Device-To-Azure-IoT-Hub.md)
 2. Azure Stack Hub:
-   - Создание виртуальной машины (шлюза) Ubuntu 18.04
-   - Установка Azure IoT Edge
-   - Подключение шлюза к Azure IoT Hub
-   - Добавление информации о реестре контейнеров на шлюз (только в рамках работы)
+   1. Создание виртуальной машины (шлюза) Ubuntu 18.04
+   2. Установка Azure IoT Edge
+   3. Подключение шлюза к Azure IoT Hub
+   4. Добавление информации о реестре контейнеров на шлюз (только в рамках работы)
 3. Azure IoT Hub:
-   - Удаленное развертывание контейнеров из частного реестра (приложения для работы с МТС IoT Hub и решением на базе Azure Stack Hub)
-   - Проверка работоспособности
+   1. Удаленное развертывание контейнеров из частного реестра (приложения для работы с МТС IoT Hub и решением на базе Azure Stack Hub)
+   2. Проверка работоспособности
 #### Визуализация полученных данных
 4. МТС IoT Hub:
     - Проверка получения данных с IoT Edge устройства
